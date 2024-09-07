@@ -1,6 +1,6 @@
 # REPOSITORY https://github.com/docker/docker-bench-security
 
-FROM alpine:3.2
+FROM alpine:3.19.4
 
 ENV VERSION 1.9.1
 
